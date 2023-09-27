@@ -1,5 +1,4 @@
-Serverless Firebase Development: Challenge Lab
-_________________________________________________________________________
+
 
 #set prohectid env variable
 gcloud config set project $(gcloud projects list --format='value(PROJECT_ID)' --filter='qwiklabs-gcp')
